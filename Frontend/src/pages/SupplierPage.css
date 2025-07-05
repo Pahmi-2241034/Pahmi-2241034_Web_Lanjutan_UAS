@@ -1,0 +1,15 @@
+.supplier-contact {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.supplier-contact svg {
+  margin-right: 10px;
+  color: var(--medium-color);
+}
+
+.supplier-address {
+  font-style: italic;
+  color: var(--medium-color);
+}
